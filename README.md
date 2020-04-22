@@ -7,6 +7,6 @@
   
  Legit Anti-Aim Auto Directions
  
-  -It will automatically change AA directions (Only For Legit CFG)
+  - It will automatically change AA directions (Only For Legit CFG)
   
 # These scripts are not belongs to me, I have modified them or i use them.
